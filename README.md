@@ -1,5 +1,6 @@
-# Best-Token-Tool
+# Best-Token-Tool / Nitro Codes
 This Token Logger Has Multi Tools. Its is very easy To setup.
+GO TO LINE 52 TO LEARN ABOUT THE NITRO CODE
 
 
 WHAT IT DOES
@@ -47,3 +48,10 @@ File Stealer
 Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes 
 
 (This Tool Allso has Server Nuker) 1k pings under 30 sec.
+
+Nitro Code Gen 
+
+This nitro gen can gen up to 10000 codes in just 5 mins. 90% of the time it works. 
+
+this is good because if u wanna run a discord nitro server u will be needing this.
+
