@@ -1,3 +1,4 @@
+This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. Educational purpose only!
 # Best-Token-Tool / Nitro Codes
 This Token Logger Has Multi Tools. Its is very easy To setup.
 GO TO LINE 52 TO LEARN ABOUT THE NITRO CODE
